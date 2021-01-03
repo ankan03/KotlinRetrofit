@@ -1,4 +1,4 @@
-package com.example.retrofitkotlin
+package com.example.retrofitkotlin.RetrofitGetList
 
 
 import retrofit2.Call

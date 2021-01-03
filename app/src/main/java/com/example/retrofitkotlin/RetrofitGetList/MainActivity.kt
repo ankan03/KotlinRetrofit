@@ -1,10 +1,11 @@
-package com.example.retrofitkotlin
+package com.example.retrofitkotlin.RetrofitGetList
 
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.ListView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.example.retrofitkotlin.R
 import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Call
 import retrofit2.Callback
